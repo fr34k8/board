@@ -1,0 +1,14 @@
+{
+  "name": "mtti-board",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "browserify": "13.1.0",
+    "gulp": "3.9.1",
+    "gulp-sass": "2.3.2",
+    "vinyl-source-stream": "1.1.0"
+  },
+  "dependencies": {
+    "angular": "1.5.8"
+  }
+}
